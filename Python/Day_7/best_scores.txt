@@ -1,0 +1,7 @@
+
+pipi:2
+pipi:1
+frisette:8
+coquinou:4
+roudoudou:7
+grignote:9
